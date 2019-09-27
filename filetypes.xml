@@ -4,10 +4,11 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="swf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
