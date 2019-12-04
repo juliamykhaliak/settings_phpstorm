@@ -10,6 +10,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="src/Plugin/Block/InstagramFeedBlock.php" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
