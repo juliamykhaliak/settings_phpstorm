@@ -10,8 +10,8 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="catch-all-ssl" type="PLAIN_TEXT" />
       <mapping pattern="docroot_stage" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="catch-all" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="src/Plugin/Block/InstagramFeedBlock.php" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
       <mapping pattern="hej" type="PLAIN_TEXT" />
@@ -21,6 +21,8 @@
       <mapping pattern="docroot" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="save" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
